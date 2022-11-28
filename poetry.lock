@@ -451,7 +451,7 @@ pycryptodome = ["pycryptodome"]
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.9"
-content-hash = "4488051ed230843cbc919aa43a6fb136b90edf538692e6d76c6ce1514b362df6"
+content-hash = "797b370dc86bf6c33919c01655619b051380fc251af8ffcb59db7d86a7a6178c"
 
 [metadata.files]
 anyio = [
